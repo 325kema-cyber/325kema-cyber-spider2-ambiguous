@@ -5,11 +5,13 @@ This repository contains five selected ambiguous questions from the Spider 2.0 S
 
 ## Selected Question IDs
 
-- [sf_bq014](#sf_bq014)
-- [sf_bq022](#sf_bq022)
-- [sf_local244](#sf_local244)
-- [sf_bq007](#sf_bq007)
-- [sf_bq272](#sf_bq272)
+| Question ID | SQL Source |
+| --- | --- |
+| [sf_bq014](#sf_bq014) | [sql/sf_bq014.sql](sql/sf_bq014.sql) |
+| [sf_bq022](#sf_bq022) | [sql/sf_bq022.sql](sql/sf_bq022.sql) |
+| [sf_local244](#sf_local244) | [sql/sf_local244.sql](sql/sf_local244.sql) |
+| [sf_bq007](#sf_bq007) | [sql/sf_bq007.sql](sql/sf_bq007.sql) |
+| [sf_bq272](#sf_bq272) | [sql/sf_bq272.sql](sql/sf_bq272.sql) |
 
 
 ## sf_bq014
